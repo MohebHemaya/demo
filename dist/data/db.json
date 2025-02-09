@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz"
+    },
+    {
+      "id": "3cc0",
+      "name": "Amit",
+      "email": "amit@info.com"
+    },
+    {
+      "id": "e8ec",
+      "name": "",
+      "email": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "title": "hello",
+      "desc": "test data"
+    }
+  ]
+}
